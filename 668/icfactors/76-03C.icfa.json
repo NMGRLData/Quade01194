@@ -56,7 +56,7 @@
         "value": 1.0
     },
     "L2(CDD)": {
-        "error": 0.0019057528983843072,
+        "error": 0.001102636989033083,
         "fit": "Weighted Mean",
         "references": [
             {
@@ -65,7 +65,7 @@
                 "uuid": "3bac1ca7-a2bd-46a1-940b-925a10ce4313"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "a-02-F-1961",
                 "uuid": "95b7e092-4763-4602-ba34-0a9ced02ed71"
             },
@@ -91,6 +91,6 @@
             }
         ],
         "reviewed": true,
-        "value": 0.9958013846637529
+        "value": 0.997602488482202
     }
 }
